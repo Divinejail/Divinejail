@@ -13,8 +13,10 @@
 - 📊 I enjoy working with **data**, solving real-world problems, and presenting insights using tools like **Power BI**.
 - 🌱 Currently learning: **LangChain, Transformers, and MLflow**
 - 🧠 Interests: AI, Data Visualization, Model Deployment, Automation
-- 📫 Email: [khandagaleaditya20004@gmail.com](mailto:khandagaleaditya20004@gmail.com)
-- 🔗 LinkedIn: [https://www.linkedin.com/in/aditya-khandagale-794229283/](https://www.linkedin.com/in/aditya-khandagale-794229283/)
+## 💬 Let’s Connect!
+
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khandagaleaditya20004@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-khandagale-794229283/)
 
 
 
@@ -70,8 +72,11 @@
 ---
 
 ## 💬 Let’s Connect!
-📧 Email: [khandagaleaditya20004@gmail.com](mailto:khandagaleaditya20004@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/aditya-khandagale-794229283](https://www.linkedin.com/in/aditya-khandagale-794229283/)
+## 💬 Let’s Connect!
+
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khandagaleaditya20004@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-khandagale-794229283/)
+
 
 ---
 
