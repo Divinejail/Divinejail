@@ -16,31 +16,30 @@
 - 📫 Email: [khandagaleaditya20004@gmail.com](mailto:khandagaleaditya20004@gmail.com)
 - 🔗 LinkedIn: [https://www.linkedin.com/in/aditya-khandagale-794229283/](https://www.linkedin.com/in/aditya-khandagale-794229283/)
 
-
-
 ## 💻 Skills:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Generative AI Tools](https://img.shields.io/badge/Generative_AI_Tools-lightgrey?style=for-the-badge)
+![EDA](https://img.shields.io/badge/EDA-lightgrey?style=for-the-badge)
+![Microsoft Power BI](https://img.shields.io/badge/Microsoft_Power_BI-yellow?style=for-the-badge&logo=power-bi&logoColor=black)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-lightgrey?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data_Science-lightgrey?style=for-the-badge)
+![Communication](https://img.shields.io/badge/Communication-lightgrey?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-lightgrey?style=for-the-badge)
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-lightgrey?style=for-the-badge)
+![Mathematics](https://img.shields.io/badge/Mathematics-lightgrey?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-lightgrey?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-lightgrey?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-lightgrey?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-lightgrey?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-lightgrey?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MLflow](https://img.shields.io/badge/-MLflow-015CDC?style=for-the-badge&logo=mlflow&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 
 ---
 
