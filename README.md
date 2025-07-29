@@ -6,12 +6,13 @@
 </p>
 ---
 ## 🙋‍♂️ About Me:
-## 🙋‍♂️ About Me:
-- 🎓 I'm **Aditya Khandagale**, a passionate learner in **Artificial Intelligence & Machine Learning**  
-- 🔍 Exploring technologies like **Generative AI, NLP, Deep Learning, and Data Analysis**  
-- 📊 I enjoy working with **data**, solving real-world problems, and presenting insights using tools like **Power BI**  
-- 🌱 Currently learning: **LangChain, Transformers, and MLflow**  
-- 🧠 Interests: AI, Data Visualization, Model Deployment, Automation  
+
+I'm Aditya Khandagale, a passionate learner in Artificial Intelligence & Machine Learning.  
+Exploring technologies like Generative AI, NLP, Deep Learning, and Data Analysis.  
+I enjoy working with data, solving real-world problems, and presenting insights using tools like Power BI.  
+Currently learning: LangChain, Transformers, and MLflow.  
+Interests: AI, Data Visualization, Model Deployment, Automation.
+
 ---
 
 ## 💬 Let’s Connect!
