@@ -4,9 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI%2FML+Enthusiast;Data+Science+Explorer;Always+Learning+Something+New!" />
 </p>
-
 ---
-
 ## 🙋‍♂️ About Me:
 - 🎓 I'm **Aditya Khandagale**, a passionate learner in **Artificial Intelligence & Machine Learning**.
 - 🔍 Exploring technologies like **Generative AI, NLP, Deep Learning, and Data Analysis**.
@@ -15,8 +13,7 @@
 - 🧠 Interests: AI, Data Visualization, Model Deployment, Automation
 ## 💬 Let’s Connect!
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khandagaleaditya20004@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-khandagale-794229283/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khandagaleaditya20004@gmail.com)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-khandagale-794229283/)
 
 
 
@@ -74,8 +71,7 @@
 ## 💬 Let’s Connect!
 ## 💬 Let’s Connect!
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khandagaleaditya20004@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-khandagale-794229283/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khandagaleaditya20004@gmail.com)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-khandagale-794229283/)
 
 
 ---
