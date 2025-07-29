@@ -16,26 +16,7 @@
 - 📫 Email: [khandagaleaditya20004@gmail.com](mailto:khandagaleaditya20004@gmail.com)
 - 🔗 LinkedIn: [https://www.linkedin.com/in/aditya-khandagale-794229283/](https://www.linkedin.com/in/aditya-khandagale-794229283/)
 
----
 
-## 🚀 Tech Stack:
-
-### 💻 Programming & Tools
-- Python, Java, SQL, Git & GitHub, Jupyter Notebook
-
-### 📊 Data Analysis & Visualization
-- Pandas, NumPy, Matplotlib, Seaborn, Power BI, Excel
-
-### 🧠 Machine & Deep Learning
-- Scikit-learn, TensorFlow, Keras, PyTorch, NLP, MLflow
-
-### 🛠️ Web & Databases
-- Flask, Django, MySQL, MongoDB
-
-### 🌐 AI/ML Frameworks & Libraries
-- OpenCV, Transformers, LangChain, HuggingFace
-
----
 
 ## 💻 Skills:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
